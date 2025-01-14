@@ -35,7 +35,7 @@ La aplicación genera un día aleatorio de la semana y espera que el usuario, ut
 - `index.html`: Archivo principal de la aplicación.
 - `style.css`: Estilo y diseño visual.
 - `app.js`: Lógica de la aplicación y funcionalidad de reconocimiento de voz.
-- `img/`: Carpeta que contiene las imágenes utilizadas en el proyecto.
+- `assets/`: Carpeta que contiene las imágenes utilizadas en el proyecto.
 
 ## 📄 Requisitos del sistema
 
