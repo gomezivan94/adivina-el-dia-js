@@ -1,4 +1,4 @@
-#https://gomezivan94.github.io/adivina-el-dia-js/#
+## https://gomezivan94.github.io/adivina-el-dia-js/
 
 
 # Adivina el día de la semana 🎤
